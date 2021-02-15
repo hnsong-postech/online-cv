@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Haena Song
     tagline: Master Student of CSDL
-    avatar: 001 송해나.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: haena.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@webjeda.com
