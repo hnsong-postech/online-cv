@@ -17,7 +17,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Haena Song
+    name: Haena
     tagline: Master Student of CSDL
     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
