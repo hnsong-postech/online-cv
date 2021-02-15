@@ -38,7 +38,7 @@ career-profile:
       Haena Song is currently Master Student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. 
       She is working with Professor Seokhyeong Kang in CAD & SOC Design Lab (CSDL).
 education:
-    - degree: M.Sc in Electrical Engineering
+    - degree: MSc in Electrical Engineering
       university: Pohang University of Science and Technology (POSTECH), Pohang, Korea
       time: Feb.2021 - Present
       details: |
@@ -49,9 +49,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Electronics & Electrical Engineering
+      university: Chung-Ang University (CAU), Seoul, Korea
+      time: Mar.2016 - Feb.2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
