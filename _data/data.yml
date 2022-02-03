@@ -152,20 +152,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 75%
-
-      - name: C-Language
+      - name: Linux
         level: 70%
+
+      - name: Python
+        level: 85%
+      
+      - name: C-Language 
+        level: 85%
 
       - name: Virtuoso
-        level: 70%
+        level: 50%
 
       - name: Verilog
         level: 70%
 
-      - name: Linux
+      - name: Xilinx-High-Level Synthesis
+        level: 90%
+      
+      - name: Xilinx-Vivado
         level: 70%
+
 
 
 footer: >
