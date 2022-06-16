@@ -120,9 +120,9 @@ awards:
 teaching:
     title: Teaching Assistance (TA)
     papers:
-      - title: "K-MOOC: System Semiconductor Design, Mar.2022 - Jun.2022"
-      - title: "Teaching of Undergraduate Research Intern, Jan.2021 - Feb.2022"
-      - title: "Engineering Electromagnetics, Sep.2021 - Dec.2021"
+      - title: "[K-MOOC] System Semiconductor Design, Mar.2022 - Jun.2022"
+      - title: "[POSTECH-DISU399] Teaching of Undergraduate Research Intern, Jan.2021 - Feb.2022"
+      - title: "[POSTECH-EECE261] Engineering Electromagnetics, Sep.2021 - Dec.2021"
 
 skills:
     title: Skills &amp; Proficiency
