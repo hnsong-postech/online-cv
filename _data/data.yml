@@ -81,6 +81,7 @@ experiences:
 projects:
     title: Projects
     intro: >
+    
     assignments:
       - title: Development of FPGA-based Automatic Targeting Recognition with Object Detection model
         tagline: LIG Nex1, POSTECH, et al. Jun.2021 - Present
@@ -91,6 +92,17 @@ projects:
       - title: Safety Walking System using Semantic Segmentation for Visual Disability
         tagline: National Research Foundation of Koera (NRF), Chung-Ang University, Jun.2020 - Feb.2021
     
+publications:
+    title: Publications
+    intro: |
+  
+    papers:
+      - title:
+        link:
+        authors: 
+        conference: 
+
+
 
 domestic:
     title: Domestic
