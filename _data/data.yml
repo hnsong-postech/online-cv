@@ -21,6 +21,10 @@ sidebar:
 
       - idiom: English
         level: Advanced
+        
+    interests:
+      - item: HW/SW co-design for Deep Learning
+        link:
 
 #    interests:
 #      - item: Climbing
@@ -60,7 +64,62 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
+experiences:
+    - role: Graduate Student
+      time: Feb.2021 - Present
+      company: CAD & SoC Design Lab (CSDL) in POSTECH
+      details: |
+         - Advisor: Prof.Seokhyeong Kang
+         
+    - role: Undergraduate Student Researcher Intern 
+      time: July.2019 - Sep.2019
+      company: MECAS in Chung-Ang University
+      details: |
+         - Advisor: Prof.Donghyun Baek
+         
+projects:
+    title: Projects
+    intro: >
+    assignments:
+      - title: Development of FPGA-based Automatic Targeting Recognition with Object Detection model
+        link: 
+        tagline: LIG Nex1, POSTECH, et al. Jun.2021 - Present
 
+      - title:  Quad Serial Peripheral Interface (QSPI) RTL Design and Verification
+        link: 
+        tagline: ABOV Semiconductor, POSTECT, et al. Mar.2021 - Jun.2021
+        
+      - title: Safety Walking Device using semantic segmentation for visual disability
+        link: 
+        tagline: National Research Foundation of Koera (NRF), Chung-Ang University, Jun.2020 - Feb.2021
+        
+      - title: 
+        link: 
+        tagline: 
+
+
+Publications:
+    title: Publications
+    papers:
+    
+
+domestic:
+    title: Domestic
+    papers:
+      - title: Weights Compression using Pruned Block Circulant Matrices for Embedded System
+        authors: <strong>Haena Song</strong> and Seokhyeong Kang
+        journal: The 29th Korean Conference on Semiconductors (KCS), 2022
+
+awards:
+    title: Awards
+    papers:
+      - title: 2020 LINC+ Capstone Design Award
+        authors: Excellence prize & Popularity prize
+        conference: Organized by Ministry of Korea, National Research Foundation of Koera (NRF) and Chung-Ang Unviersity
+      
+    
+    
 # experiences:
 #     - role: Lead Developer
 #       time: 2015 - Present
@@ -155,7 +214,7 @@ skills:
       - name: Linux
         level: 70%
 
-      - name: Python
+      - name: Python / Pytorch
         level: 85%
       
       - name: C-Language 
