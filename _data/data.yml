@@ -90,7 +90,7 @@ projects:
         tagline: ABOV Semiconductor, POSTECT, et al. Mar.2021 - Jun.2021
         
       - title: Safety Walking System using Semantic Segmentation for Visual Disability
-        tagline: National Research Foundation of Koera (NRF), Chung-Ang University, Jun.2020 - Feb.2021
+        tagline: National Research Foundation of Koera (NRF), Chung-Ang University, et al. Jun.2020 - Feb.2021
 
 
 publications:
@@ -115,12 +115,12 @@ awards:
     papers:
       - title: 2020 LINC+ Capstone Design Award
         authors: Excellence prize & Popularity prize
-        conference: Organized by Ministry of Korea, National Research Foundation of Koera (NRF) and Chung-Ang Unviersity
+        conference: Organized by Ministry of Education of Korea, National Research Foundation of Koera (NRF) and Chung-Ang Unviersity
       
 teaching:
     title: Teaching Assistance (TA)
     papers:
-      - title: "K-Mooc: System Semiconductor Design, Mar.2022 - Jun.2022"
+      - title: "K-MOOC: System Semiconductor Design, Mar.2022 - Jun.2022"
       - title: "Teaching of Undergraduate Research Intern, Jan.2021 - Feb.2022"
       - title: "Engineering Electromagnetics, Sep.2021 - Dec.2021"
 
