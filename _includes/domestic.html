@@ -1,6 +1,6 @@
 
-{% assign awards = site.data.data.awards %}
-{% if awards %}
+{% assign domestic = site.data.data.domestic %}
+{% if domestic %}
 <section class="section publications-section">
 
   <h2 class="section-title">
@@ -8,17 +8,17 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-trophy fa-stack-1x fa-inverse"></i>
     </span>
-    {{ awards.title }}
+    {{ domestic.title }}
   </h2>
 
-  {% if awards.intro %}
+  {% if domestic.intro %}
   <div class="intro">
-    {{ awards.intro | markdownify }}
+    {{ domestic.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
   <ol>
-  {% for publication in awards.papers %}
+  {% for publication in domestic.papers %}
   <div class="item">
     <li><div class="publication-title">{{ publication.title }}</div>
         <div class="publication-authors">{{ publication.authors }}</div>
