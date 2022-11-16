@@ -89,7 +89,7 @@ projects:
       - title:  Quad Serial Peripheral Interface (QSPI) RTL Design and Verification
         tagline: ABOV Semiconductor, POSTECH, et al. Mar.2021 - Jun.2021
         
-      - title: Safety Walking System using Semantic Segmentation for Visual Disability
+      - title: Safe Walking Guidance System using Semantic Segmentation for Visual Impairment
         tagline: National Research Foundation of Koera (NRF), Chung-Ang University, et al. Jun.2020 - Feb.2021
 
 
@@ -98,10 +98,16 @@ publications:
     intro: |
   
     papers:
-      - title:
+      - title: FPGA-Based Accelerator for Rank-Enhanced and Highly-Pruend Block-Circulant Neural Networks
         link:
-        authors: 
-        conference: 
+        authors: <strong>Haena Song</strong>, J. Yoon, D. Kim, E. Kwon, T. H. Oh, and S. Kang
+        conference: IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2023
+        
+    papers:
+      - title: Mobile Accelerator Exploiting Sparsity of Multi-Heads, Lines, and Blocks in Transformers in Computer Vision 
+        link:
+        authors: E. Kwon, <strong>Haena Song</strong>, J. Park, and S. Kang
+        conference: IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2023
 
 domestic:
     title: Domestic
