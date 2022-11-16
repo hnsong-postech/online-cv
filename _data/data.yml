@@ -96,14 +96,16 @@ projects:
 publications:
     title: Publications
     intro: |
-  
+       Haena Song's Publications (International Journals and Conferences)
+        
     papers:
+    
       - title: FPGA-Based Accelerator for Rank-Enhanced and Highly-Pruend Block-Circulant Neural Networks
         link:
         authors: <strong>Haena Song</strong>, J. Yoon, D. Kim, E. Kwon, T. H. Oh, and S. Kang
         conference: IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE), 2023
         
-    papers:
+        
       - title: Mobile Accelerator Exploiting Sparsity of Multi-Heads, Lines, and Blocks in Transformers in Computer Vision 
         link:
         authors: E. Kwon, <strong>Haena Song</strong>, J. Park, and S. Kang
